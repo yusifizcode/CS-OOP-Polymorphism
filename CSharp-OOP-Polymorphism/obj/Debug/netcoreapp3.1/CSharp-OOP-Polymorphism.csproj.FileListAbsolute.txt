@@ -1,0 +1,17 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.csproj.CopyComplete
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-OOP-Polymorphism\CSharp-OOP-Polymorphism\obj\Debug\netcoreapp3.1\CSharp-OOP-Polymorphism.genruntimeconfig.cache
